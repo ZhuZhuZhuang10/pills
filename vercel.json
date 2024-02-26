@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://185.149.146.30:8000/$1",
+      "dest": "http://185.149.146.30:192/$1",
       "methods": ["GET", "POST", "PUT", "DELETE"]
     }
   ]
